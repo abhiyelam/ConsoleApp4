@@ -48,6 +48,17 @@ namespace ConsoleApp4
                 Console.WriteLine($"{item.Key} { item.Value}");
                     
             }
+            Console.WriteLine();
+            SortedList list = new SortedList();
+            list.Add(4,40);
+            list.Add(3,50);
+            list.Add(2,10);
+            list.Add(1,70);
+            foreach(DictionaryEntry   item in list)
+            {
+                Console.WriteLine($"{ item.Key} { item.Value}");
+            }
+
 
         }
     }
