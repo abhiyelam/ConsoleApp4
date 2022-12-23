@@ -5,7 +5,7 @@ using System.Text;
 
 namespace ConsoleApp4.collection
 {
-    class Product
+    /*class Product
     {
         public int Id { get; set; }
         public string Name { get; set; }
@@ -59,5 +59,5 @@ namespace ConsoleApp4.collection
             }
 
         }
-    }
+    }*/
 }

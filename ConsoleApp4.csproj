@@ -4,7 +4,7 @@
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
 	  
-    <StartupObject>ConsoleApp4.collection.Test8</StartupObject>
+    <StartupObject>ConsoleApp4.demod.Test11</StartupObject>
   </PropertyGroup>
 
 </Project>
